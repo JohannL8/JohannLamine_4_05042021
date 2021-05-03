@@ -677,7 +677,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 12px;
 }
 .text-remplacement1 {
     font-size: 22px;
@@ -724,7 +724,8 @@ h2 {
     line-height: 1.4em;
 }
 
-h3 {
+h3,
+.points {
     font-size: 15px;
     text-transform: uppercase;
     font-weight: 700;
