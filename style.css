@@ -1059,3 +1059,6 @@ h4 {
         text-align: center;
     }
 }
+.part a {
+    color: #000000!important;
+}
